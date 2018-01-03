@@ -2459,6 +2459,9 @@ input[type='radio']:checked:before {
 
 .companyInputFields input[type=text] {
     width: 150px !important;
+    background-color: #ffffff;
+    border: 1px solid #dddcdc;
+    border-radius: 5px;
 }
 
 .companyInputFields .table_heading {
